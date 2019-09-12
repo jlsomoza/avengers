@@ -1,1 +1,2 @@
-Investigar al doctor dunt
+* Investigar al doctor dunt
+* capturar a redcul
